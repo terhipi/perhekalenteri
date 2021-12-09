@@ -25,8 +25,11 @@
       "url"  => "https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap"),
     "titanone" => array(
       "name" => "Titan One",
-      "url"  => "https://fonts.googleapis.com/css2?family=Titan+One&display=swap")
-  );
+      "url"  => "https://fonts.googleapis.com/css2?family=Titan+One&display=swap"),
+    "handlee" => array(
+      "name" => "Handlee",
+      "url"  => "https://fonts.googleapis.com/css2?family=Handlee&display=swap")
+    );
 
   
 
